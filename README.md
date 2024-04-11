@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prena-Mandhan
 - 👀 I’m interested in software development
 - 🌱 I’m currently a computer science student.
-- 💞️ I’m looking to collaborate on dynamic enviroment.
+- 💞️ I’m looking to collaborate on dynamic environment.
 - 📫 How to reach me ..
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
